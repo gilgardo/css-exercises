@@ -1,0 +1,13 @@
+.yellow{
+    background-color: yellow;
+}
+.black{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.but{
+    font-size: 28px;
+    font: Helvetica,Times New Roman;
+    fallback: sans-serif;
+}
